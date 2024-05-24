@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://thinkthemax.us1.myhubs.net/avatars/GH9oTbv" />
+<meta property="og:title" content="My Avatar | THINK THE MAX" />
+<meta property="og:description" content="&quot;My Avatar&quot; is an avatar you can use in THINK THE MAX." />
+<meta property="og:image" content="https://thinkthemax.us1.myhubs.net/files/15d58c9a-a97d-47a3-b6e1-4d6af9ed0adb.png"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="thinkthemax.us1.myhubs.net" />
+<meta name="twitter:title" content="My Avatar | THINK THE MAX" />
+<meta name="twitter:description" content="&quot;My Avatar&quot; is an avatar you can use in THINK THE MAX." />
+<meta property="twitter:image" content="https://thinkthemax.us1.myhubs.net/files/15d58c9a-a97d-47a3-b6e1-4d6af9ed0adb.png"/>
+<meta name="twitter:url" content="https://thinkthemax.us1.myhubs.net/avatars/GH9oTbv" />
+
+<meta name="ret:version" value="1.0.0" />
+<meta name="ret:phx_host" value="thinkthemax.us1.myhubs.net" />
+<meta name="ret:phx_port" value="4000" />
+<meta name="ret:pool" value="thinkthemax" />
+
+<title>My Avatar | THINK THE MAX</title>
+<script>window.APP_CONFIG = JSON.parse('{"translations":{"en":{"contact-email":"hubs@thinkthemax.com","company-name":"THINK THE MAX GmbH","app-name":"THINK THE MAX"}},"theme":{"themes":[{"variables":{"toolbar-label-accent4":"#FFFFFF","tip-button-color-hover":"#E7E7E7","loading-screen-background":"radial-gradient(100% 160.26% at 100% 50%, #EBEBEB 0%, #FFFFFF 46.87%, #EBEBEB 100%)","toolbar-icon-selected-bg":"#FFFFFF","background4-color":"#5D646C","accept-color-pressed":"#21242C","accent4-color":"#1700C7","accent5-color":"#FF806F","toolbar-label-accent3":"#FFFFFF","text5-color":"#FFFFFF","border3-color":"#5D646C","primary-color-hover":"#170696","outline-color":"#3A4049","text1-color-hover":"#2C2C2C","toolbar-label-accent1":"#FFFFFF","border2-color":"#5D646C","text1-color-pressed":"#2C2C2C","accent2-color":"#47D3CA","toolbar-basic-color-hover":"#E7E7E7","accent2-border-color":"#47D3CA","active-color-pressed":"#D0DEFB","accent1-color":"#F04F5F","accept-border-color":"#7ED320","basic-color-pressed":"#E7E7E7","secondary-color-pressed":"#E7E7E7","accent3-color-pressed":"#83C832","toolbar-label-accent2":"#FFFFFF","text3-color-hover":"#C7C7C7","text2-color-pressed":"#616161","text3-color-pressed":"#ADADAD","accent1-border-color":"#F04F5F","accent5-color-hover":"#F0705F","action-label-color":"#5634FF","admin-color":"#13A4ED","text2-color-hover":"#616161","secondary-color":"#FFFFFF","background2-color":"#F5F5F5","action-color-highlight":"#149CE2","text4-color":"#868686","active-color-hover":"#E8EFFD","background1-color":"#FFFFFF","toolbar-label-accent5":"#FFFFFF","toolbar-basic-icon-color":"#000000","basic-border-color":"#E7E7E7","accent3-border-color":"#92D147","accept-color-hover":"#85C23C","accent3-color":"#92D147","border1-color":"#E7E7E7","toolbar-basic-border-color":"#E7E7E7","accept-color":"#92D147","text1-color":"#000000","active-text-color":"#2B313B","text3-color":"#BBBBBB","link-color":"#3478B3","accent1-color-pressed":"#D43F57","background-hover-color":"#E7E7E7","notice-background-color":"#000000","accent4-color-hover":"#170696","toolbar-basic-selected-icon-color":"#2B313B","background3-color":"#E7E7E7","primary-color":"#1700C7","accent5-color-pressed":"#F0705F","accent4-border-color":"#1700C7","accent3-color-hover":"#83C832","accent4-color-pressed":"#170696","basic-color":"#FFFFFF","accent2-color-hover":"#42CAC1","accent2-color-pressed":"#42CAC1","input-bg-color":"#FFFFFF","basic-color-hover":"#E7E7E7","tip-text-color":"#FFFFFF","tip-bg-color":"#000000","accent1-color-hover":"#D43F57","text2-color":"#616161","accent5-border-color":"#FF806F","secondary-color-hover":"#E7E7E7","cancel":"#E1465F","action-color":"#000000"},"name":"Hubs Default","id":"hubs-default","default":true},{"variables":{"toolbar-label-accent4":"#ffffff","tip-button-color-hover":"#008bd1","loading-screen-background":"radial-gradient(50% 50% at 50% 50%, #15171B 0%, #282C31 100%)","toolbar-icon-selected-bg":"#ffffff","background4-color":"#5D646C","accept-color-pressed":"#21242C","accent4-color":"#2B313B","accent5-color":"#2B313B","toolbar-label-accent3":"#ffffff","border3-color":"#5D646C","primary-color-hover":"#12A4ED","outline-color":"#000000","text1-color-hover":"#E7E7E7","toolbar-label-accent1":"#ffffff","border2-color":"#5D646C","text1-color-pressed":"#DBDBDB","accent2-color":"#2B313B","toolbar-basic-color-hover":"#ffffff","accent2-border-color":"#13a4ed","accent1-color":"#2B313B","status-enabled-color":"#7ED320","accept-border-color":"#7ED320","basic-color-pressed":"#636F80","secondary-color-pressed":"#282C31","accent3-color-pressed":"#21242C","toolbar-label-accent2":"#ffffff","text3-color-hover":"#C7C7C7","text2-color-pressed":"#DBDBDB","text3-color-pressed":"#ADADAD","accent1-border-color":"#13a4ed","accent5-color-hover":"#5D646C","action-label-color":"#5634ff","admin-color":"#13a4ed","text2-color-hover":"#F5F5F5","secondary-color":"#3A4048","background2-color":"#21242C","action-color-highlight":"#149ce2","text4-color":"#BBBBBB","active-color-hover":"#12A4ED","background1-color":"#2B313B","toolbar-label-accent5":"#ffffff","toolbar-basic-icon-color":"#ffffff","basic-border-color":"#13a4ed","accent3-border-color":"#13a4ed","accept-color-hover":"#5D646C","accent3-color":"#2B313B","border1-color":"#3A4048","text-inverted-color":"#000000","accept-color":"#2B313B","text1-color":"#ffffff","active-text-color":"#2B313B","text3-color":"#BBBBBB","accent1-color-pressed":"#21242C","background-hover-color":"#aaaaaa","notice-background-color":"#000000","accent4-color-hover":"#5D646C","toolbar-basic-selected-icon-color":"#2B313B","background3-color":"#3A4048","primary-color":"#12A4ED","accent5-color-pressed":"#21242C","accent4-border-color":"#13a4ed","accent3-color-hover":"#5D646C","accent4-color-pressed":"#00699E","basic-color":"#3A4048","accent2-color-hover":"#5D646C","accent2-color-pressed":"#21242C","input-bg-color":"#21242C","basic-color-hover":"#4B5562","tip-text-color":"#ffffff","tip-bg-color":"#017ab8","accent1-color-hover":"#5D646C","text2-color":"#E7E7E7","accent5-border-color":"#13a4ed","secondary-color-hover":"#5D646C","action-color":"#000000"},"name":"Hubs Dark Mode","id":"hubs-dark-mode","darkModeDefault":true}]},"links":{"privacy_notice":null},"images":{"logo_dark":"https://thinkthemax.us1.myhubs.net/files/46a2beaa-cbb0-48d2-95c2-df8e380f4592.png","logo":"https://thinkthemax.us1.myhubs.net/files/34edcd20-e8d1-41d1-8f61-282eec5b98ee.png","home_background":"https://thinkthemax.us1.myhubs.net/files/b307fae9-f9d9-4777-94b1-682f703a654e.png","favicon":"https://thinkthemax.us1.myhubs.net/files/17ad8980-e69b-4dde-bb59-234bb5b12c6a.png","company_logo":"https://thinkthemax.us1.myhubs.net/files/6b1df738-1a8f-446d-bc3d-4a66a555e1c6.png","app_thumbnail":"https://thinkthemax.us1.myhubs.net/files/9fedca9a-a442-41a7-9110-b3f165e6ce93.png","app_icon":"https://thinkthemax.us1.myhubs.net/files/28f68cae-8db5-4347-85cc-4c620ebf5e2c.png"},"features":{"show_company_logo":true,"max_room_size":50,"hide_powered_by":true,"enable_lobby_ghosts":false,"disable_room_creation":false,"default_room_size":24,"default_room_id":null}}')</script>
+
+
+     <meta name="env:sentry_dsn" content=""/>  <meta name="env:reticulum_server" content="thinkthemax.us1.myhubs.net"/>  <meta name="env:tier" content="b0"/>  <meta name="env:postgrest_server" content=""/>  <meta name="env:thumbnail_server" content="nearspark.reticulum.io"/>  <meta name="env:shortlink_domain" content="thinkthemax.us1.myhubs.net/link"/>  <meta name="env:base_assets_path" content="https://thinkthemax.assets.us1.myhubs.dev/hubs/"/>  <meta name="env:non_cors_proxy_domains" content="thinkthemax.us1.myhubs.dev,thinkthemax.assets.us1.myhubs.dev"/>  <meta name="env:ga_tracking_id" content=""/>  <meta name="env:ita_server" content="turkey"/>  <meta name="env:cors_proxy_server" content="hubs-proxy.com"/> <!-- DO NOT REMOVE/EDIT THIS COMMENT - META_TAGS -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+    <title>Avatar</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+    <script>
+        if (navigator.doNotTrack !== "1") {
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        }
+    </script>
+<link href="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/stylesheets/support-63d74e7f6dde4789454f.css" rel="stylesheet"><link href="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/stylesheets/avatar-7f588d478199e2027619.css" rel="stylesheet"><script src="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/js/frontend-a2e989df24f9c97edd22.js"></script><script src="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/js/support-d8edeaad4a6738103892.js"></script><script src="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/js/engine-80253e2d4693baf7e464.js"></script><script src="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/js/store-cce8c8968d37528f88ae.js"></script><script src="https://thinkthemax.assets.us1.myhubs.dev/hubs/assets/js/avatar-48139b8eb55957f61e66.js"></script></head>
+
+<body>
+    <div id="support-root"></div>
+    <div id="ui-root"></div>
+</body>
+
+</html>
